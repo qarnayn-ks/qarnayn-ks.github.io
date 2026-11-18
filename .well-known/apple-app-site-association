@@ -1,12 +1,34 @@
 {
   "applinks": {
+    "apps": [],
     "details": [
       {
-        "appIDs": ["LCBDY3U9B4.com.att.tv.youi"],
+        "appIDs": [
+          "6LDHKLQH9M.com.att.tv",
+          "LCBDY3U9B4.com.att.tv.youi",
+          "6LDHKLQH9M.com.att.tv.phoenix"
+        ],
         "components": [
-          { "/": "/tvsigninv2/auth-return", "exclude": true, "comment": "Web CIAM callback stays in the browser" },
-          { "/": "/tvsigninv2", "comment": "TV sign-in v2 QR landing" },
-          { "/": "/tvsigninv2/*", "comment": "TV sign-in v2 sub-paths" }
+          {
+            "/": "/google/*"
+          },
+          {
+            "/": "/ott/*"
+          },
+          {
+            "/": "/play/*"
+          },
+          {
+            "/": "/tvsigninv2/auth-return",
+            "exclude": true
+          },
+          {
+            "/": "/tvsigninv2/auth-return/*",
+            "exclude": true
+          },
+          {
+            "/": "/tvsigninv2/*"
+          }
         ]
       }
     ]

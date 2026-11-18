@@ -1,6 +1,76 @@
 [
   {
-    "relation": ["delegate_permission/common.handle_all_urls"],
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.att.tv.openvideo",
+      "sha256_cert_fingerprints": [
+        "C8:A2:E9:BC:CF:59:7C:2F:B6:DC:66:BE:E2:93:FC:13:F2:FC:47:EC:77:BC:6B:2B:0D:52:C1:1F:51:19:2A:B8",
+        "67:18:45:89:C8:A2:C9:01:7D:4E:C6:0F:65:99:4E:4F:36:50:F7:ED:31:40:D7:CB:94:9A:E1:C0:0D:B1:0E:9A",
+        "9D:59:D1:D2:02:CA:E3:B4:94:37:5B:8B:86:71:9D:8D:55:A8:FF:C7:45:9A:76:10:7B:DE:7A:14:38:1F:BF:60",
+        "19:53:FE:FC:91:65:E9:50:23:61:F0:CD:0B:AA:42:4E:E0:7D:A6:93:FE:D1:C0:1B:92:99:19:EF:24:11:1B:F2",
+        "52:B4:CA:2C:BD:7C:30:8F:D1:2A:BE:D2:E7:F5:A5:96:F9:E7:FF:D5:D4:70:17:E1:86:F8:BA:21:F2:77:DA:E8",
+        "02:BA:5A:B5:D4:3B:7E:75:24:E9:62:E8:45:F8:E9:66:1D:DF:33:F9:A6:10:20:C9:51:AB:DB:8B:5E:AB:1E:50"
+      ]
+    }
+  },
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.directv.ngc.electionhq",
+      "sha256_cert_fingerprints": [
+        "C8:A2:E9:BC:CF:59:7C:2F:B6:DC:66:BE:E2:93:FC:13:F2:FC:47:EC:77:BC:6B:2B:0D:52:C1:1F:51:19:2A:B8",
+        "67:18:45:89:C8:A2:C9:01:7D:4E:C6:0F:65:99:4E:4F:36:50:F7:ED:31:40:D7:CB:94:9A:E1:C0:0D:B1:0E:9A",
+        "9D:59:D1:D2:02:CA:E3:B4:94:37:5B:8B:86:71:9D:8D:55:A8:FF:C7:45:9A:76:10:7B:DE:7A:14:38:1F:BF:60",
+        "19:53:FE:FC:91:65:E9:50:23:61:F0:CD:0B:AA:42:4E:E0:7D:A6:93:FE:D1:C0:1B:92:99:19:EF:24:11:1B:F2",
+        "52:B4:CA:2C:BD:7C:30:8F:D1:2A:BE:D2:E7:F5:A5:96:F9:E7:FF:D5:D4:70:17:E1:86:F8:BA:21:F2:77:DA:E8",
+        "02:BA:5A:B5:D4:3B:7E:75:24:E9:62:E8:45:F8:E9:66:1D:DF:33:F9:A6:10:20:C9:51:AB:DB:8B:5E:AB:1E:50"
+      ]
+    }
+  },
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.att.tv",
+      "sha256_cert_fingerprints": [
+        "C8:A2:E9:BC:CF:59:7C:2F:B6:DC:66:BE:E2:93:FC:13:F2:FC:47:EC:77:BC:6B:2B:0D:52:C1:1F:51:19:2A:B8",
+        "67:18:45:89:C8:A2:C9:01:7D:4E:C6:0F:65:99:4E:4F:36:50:F7:ED:31:40:D7:CB:94:9A:E1:C0:0D:B1:0E:9A",
+        "9D:59:D1:D2:02:CA:E3:B4:94:37:5B:8B:86:71:9D:8D:55:A8:FF:C7:45:9A:76:10:7B:DE:7A:14:38:1F:BF:60",
+        "19:53:FE:FC:91:65:E9:50:23:61:F0:CD:0B:AA:42:4E:E0:7D:A6:93:FE:D1:C0:1B:92:99:19:EF:24:11:1B:F2",
+        "52:B4:CA:2C:BD:7C:30:8F:D1:2A:BE:D2:E7:F5:A5:96:F9:E7:FF:D5:D4:70:17:E1:86:F8:BA:21:F2:77:DA:E8",
+        "02:BA:5A:B5:D4:3B:7E:75:24:E9:62:E8:45:F8:E9:66:1D:DF:33:F9:A6:10:20:C9:51:AB:DB:8B:5E:AB:1E:50"
+      ]
+    }
+  },
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.directv.galaxy",
+      "sha256_cert_fingerprints": [
+        "C8:A2:E9:BC:CF:59:7C:2F:B6:DC:66:BE:E2:93:FC:13:F2:FC:47:EC:77:BC:6B:2B:0D:52:C1:1F:51:19:2A:B8",
+        "67:18:45:89:C8:A2:C9:01:7D:4E:C6:0F:65:99:4E:4F:36:50:F7:ED:31:40:D7:CB:94:9A:E1:C0:0D:B1:0E:9A",
+        "9D:59:D1:D2:02:CA:E3:B4:94:37:5B:8B:86:71:9D:8D:55:A8:FF:C7:45:9A:76:10:7B:DE:7A:14:38:1F:BF:60",
+        "19:53:FE:FC:91:65:E9:50:23:61:F0:CD:0B:AA:42:4E:E0:7D:A6:93:FE:D1:C0:1B:92:99:19:EF:24:11:1B:F2",
+        "52:B4:CA:2C:BD:7C:30:8F:D1:2A:BE:D2:E7:F5:A5:96:F9:E7:FF:D5:D4:70:17:E1:86:F8:BA:21:F2:77:DA:E8",
+        "02:BA:5A:B5:D4:3B:7E:75:24:E9:62:E8:45:F8:E9:66:1D:DF:33:F9:A6:10:20:C9:51:AB:DB:8B:5E:AB:1E:50"
+      ]
+    }
+  },
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
     "target": {
       "namespace": "android_app",
       "package_name": "com.att.mobile",
