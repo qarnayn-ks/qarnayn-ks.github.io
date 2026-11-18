@@ -1,0 +1,14 @@
+{
+  "applinks": {
+    "details": [
+      {
+        "appIDs": ["LCBDY3U9B4.com.att.tv.youi"],
+        "components": [
+          { "/": "/tvsigninv2/auth-return", "exclude": true, "comment": "Web CIAM callback stays in the browser" },
+          { "/": "/tvsigninv2", "comment": "TV sign-in v2 QR landing" },
+          { "/": "/tvsigninv2/*", "comment": "TV sign-in v2 sub-paths" }
+        ]
+      }
+    ]
+  }
+}

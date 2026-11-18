@@ -1,0 +1,13 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.att.mobile",
+      "sha256_cert_fingerprints": [
+        "FA:C6:17:45:DC:09:03:78:6F:B9:ED:E6:2A:96:2B:39:9F:73:48:F0:BB:6F:89:9B:83:32:66:75:91:03:3B:9C",
+        "42:E7:89:3C:38:FD:71:11:C3:C5:87:97:7C:7A:8E:B0:43:5E:73:E3:7A:C5:98:FF:AF:BD:B0:AB:B1:D9:02:85"
+      ]
+    }
+  }
+]
